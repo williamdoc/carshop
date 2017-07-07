@@ -1,0 +1,690 @@
+[ 2017-07-04T09:07:06+08:00 ] 127.0.0.1 /p?c1=1&c2=6036207&c3=27&c4=1&c5=&c6=&c10=&c11=E9723093534D9EB01C99EE685A509703AA6365A8&c7=http%3A//v.qq.com/iframe/player.html%3Fvid%3Dj0394znv7db%26width%3D670%26height%3D502.5%26auto%3D0&c8=%u817E%u8BAF%u89C6%u9891&c9=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzI1NDMxNTIxNA%3D%3D%26mid%3D2247484180%26idx%3D1%26sn%3D444d5fd9311917216785581732695a15%26chksm%3De9c65cb5deb1d5a3892ce8b08469690f65b01604bba434379ef135ba48f41dbc98702d7bc1c2%26mpshare%3D1%26scene%3D1%26srcid%3D0704Avgyy4tSJqxTGOAxqSKk&rn=0.852289526257664&cv=2.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:P
+
+[ 2017-07-04T09:11:08+08:00 ] 127.0.0.1 /p?c1=1&c2=6036207&c3=27&c4=1&c5=&c6=&c10=&c11=E9723093534D9EB01C99EE685A509703AA6365A8&c7=http%3A//v.qq.com/iframe/player.html%3Fvid%3Dj0394znv7db%26width%3D670%26height%3D502.5%26auto%3D0&c8=%u817E%u8BAF%u89C6%u9891&c9=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzI1NDMxNTIxNA%3D%3D%26mid%3D100000413%26idx%3D1%26sn%3Dc55e01a4da69efdaea5215e36a19c0cc%26chksm%3D69c65d3c5eb1d42a54c22d63e172c3057a68dd94aa3910951fe8835c534717accf50f243fe9d%26mpshare%3D1%26scene%3D1%26srcid%3D07046db3p8uShkDiR85Nv1kU&rn=0.5484371255151927&cv=2.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:P
+
+[ 2017-07-04T09:12:25+08:00 ] 127.0.0.1 /p?c1=1&c2=6036207&c3=27&c4=1&c5=&c6=&c10=&c11=E9723093534D9EB01C99EE685A509703AA6365A8&c7=http%3A//v.qq.com/iframe/player.html%3Fvid%3Dv0399da7wde%26width%3D670%26height%3D502.5%26auto%3D0&c8=%u817E%u8BAF%u89C6%u9891&c9=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzI1NDMxNTIxNA%3D%3D%26mid%3D100000391%26idx%3D2%26sn%3D2da4b104c3ac8e5ab3223d484d162171%26chksm%3D69c65d265eb1d430b898fe27dc98dc45cb7ca3d21bd729228cd5e1cf2f85aec6fe81cdbb6e1b%26mpshare%3D1%26scene%3D1%26srcid%3D0704w2RWQpMUybHwtIrQNGxu&rn=0.1540737822651863&cv=2.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:P
+
+[ 2017-07-04T09:14:35+08:00 ] 127.0.0.1 /p?c1=1&c2=6036207&c3=27&c4=1&c5=&c6=&c10=&c11=E9723093534D9EB01C99EE685A509703AA6365A8&c7=http%3A//v.qq.com/iframe/player.html%3Fvid%3Dy0399ombwj5%26width%3D670%26height%3D502.5%26auto%3D0&c8=%u817E%u8BAF%u89C6%u9891&c9=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzI1NDMxNTIxNA%3D%3D%26mid%3D100000391%26idx%3D3%26sn%3D89b3bcc4b8cfb223c216baa162c44db2%26chksm%3D69c65d265eb1d4308c0814490cee14f6bdc69656c78c702bb4f7e871cfa3578b8c6b03e41e4b%26mpshare%3D1%26scene%3D1%26srcid%3D0704JSV5alrtnoczDaLn3uaB&rn=0.44683181727305055&cv=2.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:P
+
+[ 2017-07-04T10:42:38+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-07-04T10:42:40+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-07-04T10:44:45+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-07-04T10:44:47+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-07-04T10:45:56+08:00 ] 127.0.0.1 /announce?info_hash=%bc%a5%3b%8e%2cS%0e%01r%ed%ab%94%d8%90%d3%da%ae%1e%cb%17&peer_id=%2dSP3605L%5f%25%004K%ee%9f%2c%13iLx&port=32560&uploaded=0&downloaded=0&left=349404782&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T10:49:25+08:00 ] 127.0.0.1 /announce?info_hash=%bc%a5%3b%8e%2cS%0e%01r%ed%ab%94%d8%90%d3%da%ae%1e%cb%17&peer_id=%2dSP3605L%5f%25%004K%ee%9f%2c%13iLx&port=32560&uploaded=0&downloaded=0&left=349404782&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T10:49:32+08:00 ] 127.0.0.1 /announce?info_hash=E1%1b%05%1d%3d%98V%154%24Y%c4%3e%0ccY%23F%9d&peer_id=%2dSP3605%ae%5f%25%004K%ee%9f%2c%f1%8b%ae%9a&port=32560&uploaded=0&downloaded=0&left=3377773692&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T10:49:33+08:00 ] 127.0.0.1 /announce.php?info_hash=%bc%a5%3b%8e%2cS%0e%01r%ed%ab%94%d8%90%d3%da%ae%1e%cb%17&peer_id=%2dSP3605L%5f%25%004K%ee%9f%2c%13iLx&port=32560&uploaded=0&downloaded=0&left=349404782&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T10:49:49+08:00 ] 127.0.0.1 /announce.php?info_hash=%bc%a5%3b%8e%2cS%0e%01r%ed%ab%94%d8%90%d3%da%ae%1e%cb%17&peer_id=%2dSP3605L%5f%25%004K%ee%9f%2c%13iLx&port=32560&uploaded=0&downloaded=0&left=349404782&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T10:49:50+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-07-04T10:49:52+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-07-04T10:50:05+08:00 ] 127.0.0.1 /announce?info_hash=%bc%a5%3b%8e%2cS%0e%01r%ed%ab%94%d8%90%d3%da%ae%1e%cb%17&peer_id=%2dSP3605L%5f%25%004K%ee%9f%2c%13iLx&port=32560&uploaded=0&downloaded=0&left=349404782&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T10:50:13+08:00 ] 127.0.0.1 /announce.php?info_hash=%bc%a5%3b%8e%2cS%0e%01r%ed%ab%94%d8%90%d3%da%ae%1e%cb%17&peer_id=%2dSP3605L%5f%25%004K%ee%9f%2c%13iLx&port=32560&uploaded=0&downloaded=0&left=349404782&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T10:53:12+08:00 ] 127.0.0.1 /announce?info_hash=E1%1b%05%1d%3d%98V%154%24Y%c4%3e%0ccY%23F%9d&peer_id=%2dSP3605%ae%5f%25%004K%ee%9f%2c%f1%8b%ae%9a&port=32560&uploaded=0&downloaded=0&left=3377773692&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T10:53:20+08:00 ] 127.0.0.1 /announce.php?info_hash=E1%1b%05%1d%3d%98V%154%24Y%c4%3e%0ccY%23F%9d&peer_id=%2dSP3605%ae%5f%25%004K%ee%9f%2c%f1%8b%ae%9a&port=32560&uploaded=0&downloaded=0&left=3377773692&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T10:53:36+08:00 ] 127.0.0.1 /announce.php?info_hash=E1%1b%05%1d%3d%98V%154%24Y%c4%3e%0ccY%23F%9d&peer_id=%2dSP3605%ae%5f%25%004K%ee%9f%2c%f1%8b%ae%9a&port=32560&uploaded=0&downloaded=0&left=3377773692&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T10:53:52+08:00 ] 127.0.0.1 /announce?info_hash=E1%1b%05%1d%3d%98V%154%24Y%c4%3e%0ccY%23F%9d&peer_id=%2dSP3605%ae%5f%25%004K%ee%9f%2c%f1%8b%ae%9a&port=32560&uploaded=0&downloaded=0&left=3377773692&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T10:54:00+08:00 ] 127.0.0.1 /announce.php?info_hash=E1%1b%05%1d%3d%98V%154%24Y%c4%3e%0ccY%23F%9d&peer_id=%2dSP3605%ae%5f%25%004K%ee%9f%2c%f1%8b%ae%9a&port=32560&uploaded=0&downloaded=0&left=3377773692&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T10:54:56+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-07-04T10:54:57+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-07-04T10:58:15+08:00 ] 127.0.0.1 /announce?info_hash=%de%e0%3c%9ek%12%40%b9%9b%95%d4%11%de%3c5%93EU%10M&peer_id=%2dSP3605E%5f%25%004K%ee%9f%2c%1a%60Eq&port=32560&uploaded=0&downloaded=16384&left=4103118305&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T10:58:23+08:00 ] 127.0.0.1 /announce.php?info_hash=%de%e0%3c%9ek%12%40%b9%9b%95%d4%11%de%3c5%93EU%10M&peer_id=%2dSP3605E%5f%25%004K%ee%9f%2c%1a%60Eq&port=32560&uploaded=0&downloaded=16384&left=4103118305&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T10:58:47+08:00 ] 127.0.0.1 /announce?info_hash=%de%e0%3c%9ek%12%40%b9%9b%95%d4%11%de%3c5%93EU%10M&peer_id=%2dSP3605E%5f%25%004K%ee%9f%2c%1a%60Eq&port=32560&uploaded=0&downloaded=16384&left=4103118305&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T10:58:55+08:00 ] 127.0.0.1 /announce.php?info_hash=%de%e0%3c%9ek%12%40%b9%9b%95%d4%11%de%3c5%93EU%10M&peer_id=%2dSP3605E%5f%25%004K%ee%9f%2c%1a%60Eq&port=32560&uploaded=0&downloaded=16384&left=4103118305&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T11:00:01+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-07-04T11:00:02+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-07-04T11:05:05+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-07-04T11:05:07+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-07-04T11:06:47+08:00 ] 127.0.0.1 /announce.php?info_hash=E1%1b%05%1d%3d%98V%154%24Y%c4%3e%0ccY%23F%9d&peer_id=%2dSP3605%ae%5f%25%004K%ee%9f%2c%f1%8b%ae%9a&port=32560&uploaded=0&downloaded=0&left=3377773692&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T11:10:11+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-07-04T11:10:12+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-07-04T11:11:56+08:00 ] 127.0.0.1 /announce.php?info_hash=%de%e0%3c%9ek%12%40%b9%9b%95%d4%11%de%3c5%93EU%10M&peer_id=%2dSP3605E%5f%25%004K%ee%9f%2c%1a%60Eq&port=32560&uploaded=131072&downloaded=2998272&left=4101545441&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T11:15:16+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-07-04T11:15:17+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-07-04T11:17:03+08:00 ] 127.0.0.1 /announce?info_hash=%de%e0%3c%9ek%12%40%b9%9b%95%d4%11%de%3c5%93EU%10M&peer_id=%2dSP3605E%5f%25%004K%ee%9f%2c%1a%60Eq&port=32560&uploaded=1703936&downloaded=38027264&left=4065893857&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T11:17:11+08:00 ] 127.0.0.1 /announce.php?info_hash=%de%e0%3c%9ek%12%40%b9%9b%95%d4%11%de%3c5%93EU%10M&peer_id=%2dSP3605E%5f%25%004K%ee%9f%2c%1a%60Eq&port=32560&uploaded=1720320&downloaded=39452672&left=4064845281&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T11:20:21+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-07-04T11:20:22+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-07-04T11:25:25+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-07-04T11:25:27+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-07-04T11:30:31+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-07-04T11:30:32+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-07-04T11:35:36+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-07-04T11:35:37+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-07-04T11:40:41+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-07-04T11:40:42+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-07-04T11:45:46+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-07-04T11:45:47+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-07-04T11:50:51+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-07-04T11:50:52+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-07-04T11:55:56+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-07-04T11:55:57+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-07-04T12:01:01+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-07-04T12:01:02+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-07-04T12:06:06+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-07-04T12:06:07+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-07-04T12:11:11+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-07-04T12:11:12+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-07-04T12:16:16+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-07-04T12:16:16+08:00 ] 127.0.0.1 /announce?info_hash=%bc%a5%3b%8e%2cS%0e%01r%ed%ab%94%d8%90%d3%da%ae%1e%cb%17&peer_id=%2dSP3605L%5f%25%004K%ee%9f%2c%13iLx&port=32560&uploaded=0&downloaded=0&left=349404782&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T12:16:17+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-07-04T12:20:10+08:00 ] 127.0.0.1 /announce?info_hash=%bc%a5%3b%8e%2cS%0e%01r%ed%ab%94%d8%90%d3%da%ae%1e%cb%17&peer_id=%2dSP3605L%5f%25%004K%ee%9f%2c%13iLx&port=32560&uploaded=0&downloaded=0&left=349404782&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T12:20:18+08:00 ] 127.0.0.1 /announce.php?info_hash=%bc%a5%3b%8e%2cS%0e%01r%ed%ab%94%d8%90%d3%da%ae%1e%cb%17&peer_id=%2dSP3605L%5f%25%004K%ee%9f%2c%13iLx&port=32560&uploaded=0&downloaded=0&left=349404782&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T12:20:26+08:00 ] 127.0.0.1 /announce.php?info_hash=%bc%a5%3b%8e%2cS%0e%01r%ed%ab%94%d8%90%d3%da%ae%1e%cb%17&peer_id=%2dSP3605L%5f%25%004K%ee%9f%2c%13iLx&port=32560&uploaded=0&downloaded=0&left=349404782&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T12:20:42+08:00 ] 127.0.0.1 /announce?info_hash=%bc%a5%3b%8e%2cS%0e%01r%ed%ab%94%d8%90%d3%da%ae%1e%cb%17&peer_id=%2dSP3605L%5f%25%004K%ee%9f%2c%13iLx&port=32560&uploaded=0&downloaded=0&left=349404782&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T12:20:50+08:00 ] 127.0.0.1 /announce.php?info_hash=%bc%a5%3b%8e%2cS%0e%01r%ed%ab%94%d8%90%d3%da%ae%1e%cb%17&peer_id=%2dSP3605L%5f%25%004K%ee%9f%2c%13iLx&port=32560&uploaded=0&downloaded=0&left=349404782&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T12:21:21+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-07-04T12:21:22+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-07-04T12:21:44+08:00 ] 127.0.0.1 /announce?info_hash=E1%1b%05%1d%3d%98V%154%24Y%c4%3e%0ccY%23F%9d&peer_id=%2dSP3605%ae%5f%25%004K%ee%9f%2c%f1%8b%ae%9a&port=32560&uploaded=0&downloaded=0&left=3377773692&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T12:25:17+08:00 ] 127.0.0.1 /announce?info_hash=E1%1b%05%1d%3d%98V%154%24Y%c4%3e%0ccY%23F%9d&peer_id=%2dSP3605%ae%5f%25%004K%ee%9f%2c%f1%8b%ae%9a&port=32560&uploaded=0&downloaded=0&left=3377773692&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T12:25:25+08:00 ] 127.0.0.1 /announce.php?info_hash=E1%1b%05%1d%3d%98V%154%24Y%c4%3e%0ccY%23F%9d&peer_id=%2dSP3605%ae%5f%25%004K%ee%9f%2c%f1%8b%ae%9a&port=32560&uploaded=0&downloaded=0&left=3377773692&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T12:26:05+08:00 ] 127.0.0.1 /announce.php?info_hash=E1%1b%05%1d%3d%98V%154%24Y%c4%3e%0ccY%23F%9d&peer_id=%2dSP3605%ae%5f%25%004K%ee%9f%2c%f1%8b%ae%9a&port=32560&uploaded=0&downloaded=0&left=3377773692&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T12:26:26+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-07-04T12:26:27+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-07-04T12:26:29+08:00 ] 127.0.0.1 /announce?info_hash=E1%1b%05%1d%3d%98V%154%24Y%c4%3e%0ccY%23F%9d&peer_id=%2dSP3605%ae%5f%25%004K%ee%9f%2c%f1%8b%ae%9a&port=32560&uploaded=0&downloaded=0&left=3377773692&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T12:26:37+08:00 ] 127.0.0.1 /announce.php?info_hash=E1%1b%05%1d%3d%98V%154%24Y%c4%3e%0ccY%23F%9d&peer_id=%2dSP3605%ae%5f%25%004K%ee%9f%2c%f1%8b%ae%9a&port=32560&uploaded=0&downloaded=0&left=3377773692&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T12:28:54+08:00 ] 127.0.0.1 /announce?info_hash=%de%e0%3c%9ek%12%40%b9%9b%95%d4%11%de%3c5%93EU%10M&peer_id=%2dSP3605E%5f%25%004K%ee%9f%2c%1a%60Eq&port=32560&uploaded=8601600&downloaded=165953536&left=3937967585&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T12:29:02+08:00 ] 127.0.0.1 /announce.php?info_hash=%de%e0%3c%9ek%12%40%b9%9b%95%d4%11%de%3c5%93EU%10M&peer_id=%2dSP3605E%5f%25%004K%ee%9f%2c%1a%60Eq&port=32560&uploaded=8601600&downloaded=165953536&left=3937967585&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T12:29:11+08:00 ] 127.0.0.1 /announce?info_hash=%de%e0%3c%9ek%12%40%b9%9b%95%d4%11%de%3c5%93EU%10M&peer_id=%2dSP3605E%5f%25%004K%ee%9f%2c%1a%60Eq&port=32560&uploaded=8601600&downloaded=165953536&left=3937967585&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T12:30:38+08:00 ] 127.0.0.1 /announce.php?info_hash=%de%e0%3c%9ek%12%40%b9%9b%95%d4%11%de%3c5%93EU%10M&peer_id=%2dSP3605E%5f%25%004K%ee%9f%2c%1a%60Eq&port=32560&uploaded=8601600&downloaded=165953536&left=3937967585&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a204a%3ad88b%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T12:31:31+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-07-04T12:31:32+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-07-04T12:36:36+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-07-04T12:36:37+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-07-04T12:37:56+08:00 ] 127.0.0.1 /announce.php?info_hash=E1%1b%05%1d%3d%98V%154%24Y%c4%3e%0ccY%23F%9d&peer_id=%2dSP3605%ae%5f%25%004K%ee%9f%2c%f1%8b%ae%9a&port=32560&uploaded=0&downloaded=0&left=3377773692&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a2843%3ac7c8%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T12:41:41+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-07-04T12:41:44+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-07-04T12:42:29+08:00 ] 127.0.0.1 /announce.php?info_hash=%de%e0%3c%9ek%12%40%b9%9b%95%d4%11%de%3c5%93EU%10M&peer_id=%2dSP3605E%5f%25%004K%ee%9f%2c%1a%60Eq&port=32560&uploaded=8601600&downloaded=165953536&left=3937967585&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a2843%3ac7c8%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T12:46:46+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-07-04T12:46:48+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-07-04T12:47:23+08:00 ] 127.0.0.1 /announce?info_hash=%de%e0%3c%9ek%12%40%b9%9b%95%d4%11%de%3c5%93EU%10M&peer_id=%2dSP3605E%5f%25%004K%ee%9f%2c%1a%60Eq&port=32560&uploaded=8601600&downloaded=165953536&left=3937967585&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a2843%3ac7c8%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T12:47:31+08:00 ] 127.0.0.1 /announce.php?info_hash=%de%e0%3c%9ek%12%40%b9%9b%95%d4%11%de%3c5%93EU%10M&peer_id=%2dSP3605E%5f%25%004K%ee%9f%2c%1a%60Eq&port=32560&uploaded=8601600&downloaded=165953536&left=3937967585&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a2843%3ac7c8%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T12:50:52+08:00 ] 127.0.0.1 /announce?info_hash=Kz%da%9f%04%23%c6%fb%ca%f6b%9f%83I%fc%28%9e%60%b2r&peer_id=%2dSP3605%e1%5f%25%004K%ee%9f%2c%be%c4%e1%d5&port=32560&uploaded=0&downloaded=0&left=1038331527&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a2843%3ac7c8%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T12:50:59+08:00 ] 127.0.0.1 /announce.php?info_hash=Kz%da%9f%04%23%c6%fb%ca%f6b%9f%83I%fc%28%9e%60%b2r&peer_id=%2dSP3605%e1%5f%25%004K%ee%9f%2c%be%c4%e1%d5&port=32560&uploaded=0&downloaded=0&left=1038331527&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a2843%3ac7c8%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T12:51:24+08:00 ] 127.0.0.1 /announce?info_hash=Kz%da%9f%04%23%c6%fb%ca%f6b%9f%83I%fc%28%9e%60%b2r&peer_id=%2dSP3605%e1%5f%25%004K%ee%9f%2c%be%c4%e1%d5&port=32560&uploaded=0&downloaded=0&left=1038331527&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a2843%3ac7c8%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T12:51:32+08:00 ] 127.0.0.1 /announce.php?info_hash=Kz%da%9f%04%23%c6%fb%ca%f6b%9f%83I%fc%28%9e%60%b2r&peer_id=%2dSP3605%e1%5f%25%004K%ee%9f%2c%be%c4%e1%d5&port=32560&uploaded=0&downloaded=0&left=1038331527&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a2843%3ac7c8%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T12:51:51+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-07-04T12:51:52+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-07-04T12:56:56+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-07-04T12:56:57+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-07-04T13:02:01+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-07-04T13:02:03+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-07-04T13:05:14+08:00 ] 127.0.0.1 /announce.php?info_hash=Kz%da%9f%04%23%c6%fb%ca%f6b%9f%83I%fc%28%9e%60%b2r&peer_id=%2dSP3605%e1%5f%25%004K%ee%9f%2c%be%c4%e1%d5&port=32560&uploaded=0&downloaded=2424832&left=1036234375&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a2843%3ac7c8%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T13:07:06+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-07-04T13:07:08+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-07-04T13:09:00+08:00 ] 127.0.0.1 /announce?info_hash=Kz%da%9f%04%23%c6%fb%ca%f6b%9f%83I%fc%28%9e%60%b2r&peer_id=%2dSP3605%e1%5f%25%004K%ee%9f%2c%be%c4%e1%d5&port=32560&uploaded=0&downloaded=2998272&left=1035447943&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a2843%3ac7c8%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T13:09:08+08:00 ] 127.0.0.1 /announce.php?info_hash=Kz%da%9f%04%23%c6%fb%ca%f6b%9f%83I%fc%28%9e%60%b2r&peer_id=%2dSP3605%e1%5f%25%004K%ee%9f%2c%be%c4%e1%d5&port=32560&uploaded=0&downloaded=2998272&left=1035447943&event=started&key=BF617F4F&compact=1&numwant=200&no_peer_id=1&ipv6=2001%3a0%3a9d38%3a6ab8%3a2843%3ac7c8%3adb99%3a1c8f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Announce
+
+[ 2017-07-04T21:02:07+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-07-04T22:44:32+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001096s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-07-04T22:45:02+08:00 ] ::1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-07-04T22:58:44+08:00 ] ::1 /js/libs/modernizr.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+ERR: 无法加载模块:Js
+

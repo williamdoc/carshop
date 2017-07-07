@@ -1,0 +1,18 @@
+
+
+提交表单中有文件上传时要设置 enctype="multipart/form-data"
+
+html5 可向多个url提交表单，此项目中具体为批量删除和更新排序
+<form  name="myform" id="myform" method="post">
+<input  form="myform" formaction="__CONTROLLER__/batchdel" formmethod="post" type="submit">
+
+排序
+<input class="common-input sort-input" name="{$vo.id}" value="{$vo.sort}" type="text">
+让name=id，出过去的键值为id，名值为排序值Array ( [7] => 50 [8] => 50 [9] => 50 [10] => 50 )
+
+
+百度编辑器提交数据时如何防止html标签被转义
+2016-03-27 22:34
+$str = "&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;";
+$html = htmlspecialchars_decode($str);
+var_dump($html);

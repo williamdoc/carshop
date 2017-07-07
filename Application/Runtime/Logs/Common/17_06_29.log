@@ -1,0 +1,90 @@
+[ 2017-06-29T13:36:53+08:00 ] 127.0.0.1 /beacon.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Beacon
+
+[ 2017-06-29T20:20:47+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-06-29T20:20:49+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-06-29T20:22:52+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-06-29T20:22:54+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-06-29T20:27:57+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-06-29T20:27:59+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-06-29T20:33:02+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-06-29T20:33:04+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-06-29T20:38:07+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-06-29T20:38:09+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-06-29T20:43:12+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-06-29T20:43:14+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhttest
+
+[ 2017-06-29T20:48:17+08:00 ] 127.0.0.1 /dhtinit.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhtinit
+
+[ 2017-06-29T20:48:19+08:00 ] 127.0.0.1 /dhttest.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dhttest
+
